@@ -1,4 +1,5 @@
 const app = "I don't do much."
-fuction destructivelyAppendKitten(name){
-  return appendKitten("Ralph");
+fuction destructivelyAppendKitten(array){
+  array = appendKitten("Ralph");
+  return array;
 }
